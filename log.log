@@ -1,0 +1,12 @@
+# netperf -H192.168.0.2 -l360 -p 12236 -- -m 90000 -M 90000 -S 90000 -s 90000
+TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.2 (192.168.0.2) port 0 AF_INET :
+histogram
+Recv Send Send
+Socket Socket Message Elapsed
+Size Size Size Time Throughput
+bytes bytes bytes secs. 10^6bits/sec
+90000 90000 90000 360.01 768.23
+90000 90000 90000 360.01 68.23
+90000 90000 90000 360.01 78.23
+aiudhv auidhadhdj audivadl audhvauhouew ouadhv 
+1 2 3 4 5 6
